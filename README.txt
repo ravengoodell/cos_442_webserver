@@ -1,3 +1,5 @@
+This is a simple web server created for COS 442 - Intro to Cloud Computing at the University of Maine. This server was created using Nginx, HTML/CSS, and runs in a Docker container. Instructions for running the Docker image on a Jetstream instance are below. 
+
 Instructions: 
 
 1. Create a Jetstream instance. A "small" instance should be sufficient. 
